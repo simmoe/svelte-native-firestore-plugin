@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727303480416",
+    "firebase_url": "https://realtime-database-6ad5c.firebaseio.com",
+    "project_id": "realtime-database-6ad5c",
+    "storage_bucket": "realtime-database-6ad5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727303480416:android:a407f301ec0f74e7168f05",
+        "android_client_info": {
+          "package_name": "technology.sveltenative.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727303480416-f26n103k0gg4spl2c0j2pm6628m95g8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1t9N21ytfSViq8NF74mw1-nSb6WsusK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [ 
+            {
+              "client_id": "727303480416-f26n103k0gg4spl2c0j2pm6628m95g8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727303480416-4ma9t95e0d5p7nke64d7924jo1pafh9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "technology.sveltenative.template"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

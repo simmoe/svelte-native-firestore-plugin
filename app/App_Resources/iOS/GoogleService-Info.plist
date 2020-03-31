@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>727303480416-4ma9t95e0d5p7nke64d7924jo1pafh9b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.727303480416-4ma9t95e0d5p7nke64d7924jo1pafh9b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4wf2hj33GkGq-sgIjRVGKUQ8NU3CmBxM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>727303480416</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>technology.sveltenative.template</string>
+	<key>PROJECT_ID</key>
+	<string>realtime-database-6ad5c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realtime-database-6ad5c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:727303480416:ios:98b7ddd4134adc78168f05</string>
+	<key>DATABASE_URL</key>
+	<string>https://realtime-database-6ad5c.firebaseio.com</string>
+</dict>
+</plist>
