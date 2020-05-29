@@ -4,6 +4,21 @@
 <dict>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Recording Practice Sessions</string>
+
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>REVERSED_CLIENT_ID</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.727303480416-4ma9t95e0d5p7nke64d7924jo1pafh9b</string>
+			</array>
+		</dict>
+	</array>
+
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
